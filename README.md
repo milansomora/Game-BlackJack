@@ -1,4 +1,5 @@
-# Konzolová karetní hra Black Jack napsaná v C++
+# Karetní hra BlackJack napsaná v C++
+Konzolová aplikace
 
 </br>
 </br>
