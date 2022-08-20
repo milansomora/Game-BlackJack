@@ -1,5 +1,6 @@
 # Karetní hra BlackJack napsaná v C++
 Konzolová aplikace
+</br>
 Zdrojový kód umístěn v /BlackJack/BlackJack.cpp.
 
 </br>
