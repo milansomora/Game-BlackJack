@@ -1,4 +1,6 @@
 ﻿// Konzolová karetní hra BlackJack v C++
+﻿// BlackJack Kartenspiel in C++
+// Milan Somora
 
 #include "stdafx.h"  // knihovna pro Visual Studio
 #include <algorithm> // random_shuffle
