@@ -1,5 +1,5 @@
-﻿// Konzolová karetní hra BlackJack v C++
-﻿// BlackJack Kartenspiel in C++
+// BlackJack Kartenspiel in C++
+// Konzolová karetní hra BlackJack v C++
 // Milan Somora
 
 #include "stdafx.h"  // knihovna pro Visual Studio
